@@ -770,7 +770,7 @@ section {
   display: flex;
   flex-direction: column;
   height: 100%;
-  width: 50%;
+  width: 100%;
 }
 
 .everyday {
@@ -828,7 +828,7 @@ section {
 .gmap {
   display: flex;
   height: 20rem;
-  width: 50%;
+  width: 100%;
   margin-bottom: 5rem;
 }
 
