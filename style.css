@@ -758,10 +758,7 @@ section {
 /* 🌎 map 🌎 */
 
 .map-container {
-  /* display: flex;
-  flex-direction: row;
-  height: 100%;
-  width: 100%; */
+  z-index: 2;
   max-width: 1200px;
   gap: 2rem;
 }
